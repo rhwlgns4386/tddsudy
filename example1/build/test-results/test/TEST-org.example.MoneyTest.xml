@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MoneyTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-07-23T06:49:09" hostname="DESKTOP-9MN93IV" time="0.026">
+  <properties/>
+  <testcase name="testReduceSum()" classname="org.example.MoneyTest" time="0.017"/>
+  <testcase name="testSimpleAddition()" classname="org.example.MoneyTest" time="0.001"/>
+  <testcase name="testMultiplication()" classname="org.example.MoneyTest" time="0.0"/>
+  <testcase name="testSumPlusMoney()" classname="org.example.MoneyTest" time="0.0"/>
+  <testcase name="testMixedAddition()" classname="org.example.MoneyTest" time="0.0"/>
+  <testcase name="testReduceMoney()" classname="org.example.MoneyTest" time="0.001"/>
+  <testcase name="testIdentityRate()" classname="org.example.MoneyTest" time="0.001"/>
+  <testcase name="testSumTimeMoney()" classname="org.example.MoneyTest" time="0.001"/>
+  <testcase name="testFrancMultiplication()" classname="org.example.MoneyTest" time="0.0"/>
+  <testcase name="testCurrency()" classname="org.example.MoneyTest" time="0.0"/>
+  <testcase name="testEquality()" classname="org.example.MoneyTest" time="0.001"/>
+  <testcase name="testPlusReturnsSum()" classname="org.example.MoneyTest" time="0.001"/>
+  <testcase name="testReduceMoneyDifferentCurrency()" classname="org.example.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
